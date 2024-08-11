@@ -1,2 +1,2 @@
 # TrendHaven
-e-com website for 
+e-com website with selfhealing
